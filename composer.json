@@ -1,0 +1,14 @@
+{
+    "name": "betouar-hamza/php-activemq-with-stomp",
+    "description": "Learning php-strom",
+    "type": "",
+    "require": {
+        "stomp-php/stomp-php": "4.*"
+    },
+    "authors": [
+        {
+            "name": "Hamza Betouar",
+            "email": "betouar.hamza.89@gmail.com"
+        }
+    ]
+}
