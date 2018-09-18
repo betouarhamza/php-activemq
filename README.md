@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Install depedencies
+### Install dependencies
 
     composer install
 
